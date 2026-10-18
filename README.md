@@ -26,10 +26,5 @@ Results-driven Database Specialist with 2 years of hands-on experience specializ
 </div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Omar%20Abuhmoud&fontSize=80&fontColor=#009900aa&fontAlign=50&fontAlignY=50&stroke=#009900aa&strokeWidth=3&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
 
 ###
