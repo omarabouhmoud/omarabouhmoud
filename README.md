@@ -27,7 +27,7 @@ Results-driven Database Specialist with 2 years of hands-on experience specializ
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:2d1b69,100:9b59b6&text=Abdulrahman%20Sorour&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Flutter%20Developer&descSize=15&descFontColor=aaaaaa&descAlign=50&descAlignY=57&section=header&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:2d1b69,100:9b59b6&text=omar abuhmoud%20Sorour&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Flutter%20Developer&descSize=15&descFontColor=aaaaaa&descAlign=50&descAlignY=57&section=header&animation=fadeIn" />
 
 <br/>
 
