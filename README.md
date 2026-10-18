@@ -10,10 +10,6 @@ Results-driven Database Specialist with 2 years of hands-on experience specializ
 ![](https://streak-stats.demolab.com/?user=omarabouhmoud&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=omarabouhmoud&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omarabouhmoud&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
