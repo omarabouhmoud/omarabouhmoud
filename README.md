@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Omar Abuhmoud
+<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px"> My name is Omar Abuhmoud</h1>
 
 # 💫 About Me:
 Results-driven Database Specialist with 2 years of hands-on experience specializing in the design, implementation, and<br>optimization of scalable, high-performance database architectures. Proven expertise in managing enterprise systems like<br>Oracle ERP and bridging the gap between complex analytical requirements and robust technical solutions. Experienced in<br>working within collaborative teams to ensure data availability, performance, and integrity across large-scale data platforms.<br>Ready to leverage strong database management and programming skills to design and maintain complex databases<br>containing millions to billions of records
