@@ -20,6 +20,12 @@ Results-driven Database Specialist with 2 years of hands-on experience specializ
 ---
 [![](https://komarev.com/ghpvc/?username=omarabouhmoud&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=101&section=header&reversal=false&text=Omar%20Abuhmoud&fontSize=91&fontColor=#00ff00&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=3&animation=twinkling&descSize=28&descAlign=55&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div data-importer="border">
