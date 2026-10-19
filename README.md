@@ -20,8 +20,5 @@ Results-driven Database Specialist with 2 years of hands-on experience specializ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-<a href="https://github.com">
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
-</a>
 
 ###
