@@ -15,7 +15,6 @@ Results-driven Software Engineer & Database Specialist with 2 years of hands-on 
 
 ![](https://streak-stats.demolab.com/?user=omarabouhmoud&theme=transparent&hide_border=true)<br/>
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
