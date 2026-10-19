@@ -20,5 +20,9 @@ Results-driven Database Specialist with 2 years of hands-on experience specializ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://vercel.app" alt="Omar's Top Languages" />
+</a>
+
 
 ###
