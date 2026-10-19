@@ -15,6 +15,13 @@ Results-driven Software Engineer & Database Specialist with 2 years of hands-on 
 
 ![](https://streak-stats.demolab.com/?user=omarabouhmoud&theme=transparent&hide_border=true)<br/>
 
+<br>
+<p dir="auto"><a href="https://badges.pufler.dev/commits/monthly/pujux" rel="nofollow"><img src="https://badges.pufler.dev/commits/monthly/pujux?_=0" alt="Commits Badge" data-canonical-src="https://badges.pufler.dev/commits/monthly/pujux" style="max-width: 100%;"></a></p>
+<p dir="auto">Returns a badge that shows the number of commits you have published in a specified periodicity (yearly, monthly, weekly, daily or all)</p>
+<h6 tabindex="-1" dir="auto"><a id="user-content-endpoint-6" class="anchor" aria-hidden="true" href="#endpoint-6"></a>Endpoint</h6>
+<p dir="auto"><code>https://badges.pufler.dev/commits/{periodicity}/{username}</code></p>
+<h6 tabindex="-1" dir="auto"><a id="user-content-markdown-6" class="anchor" aria-hidden="true" href="#markdown-6"></a>Markdown</h6>
+<p dir="auto"><code>[![Commits Badge](https://badges.pufler.dev/commits/monthly/pujux)](https://badges.pufler.dev)</code></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
