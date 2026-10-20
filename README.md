@@ -29,5 +29,4 @@ Results-driven Software Engineer & Database Specialist with 2 years of hands-on 
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />   
 
-  
 ###
