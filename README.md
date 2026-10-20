@@ -28,6 +28,9 @@ Results-driven Software Engineer & Database Specialist with 2 years of hands-on 
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />   
+<a href="https://git.io">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</a>
 
   
 ###
