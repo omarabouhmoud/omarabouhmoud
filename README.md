@@ -4,11 +4,17 @@
 
 # 💫 About Me:
 Results-driven Software Engineer & Database Specialist with 2 years of hands-on experience specializing in the design, implementation, and optimization of scalable, high-performance applications using Django and Angular. Proven expertise in managing enterprise systems like Oracle ERP and bridging the gap between complex analytical requirements and robust technical solutions. Experienced in working within collaborative teams to ensure data and system availability, performance, and integrity across large-scale platforms. Ready to leverage strong software engineering, database management, and programming skills to design and maintain complex applications and databases containing millions to billions of records.
-<pre><code>• 🗺️ I'm based in Saudi Arabia
-• 💻 See my portfolio at <a href="http://github.com/omarabouhmoud" target="_blank">omarabouhmoud</a>
-• ✉️ Send to my Email <a href="mailto:omarabouhmoud@gmail.com">Email Me</a>
-• 🚀 I'm always learning new technologies and best practices
-# 🛠️ Tech Stack:</code></pre>
+<table width="100%">
+<tr>
+<td bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+• 🗺️ I'm based in Saudi Arabia<br>
+• 💻 See my portfolio at <a href="http://github.com/omarabouhmoud" target="_blank">omarabouhmoud</a><br>
+• ✉️ Send to my Email <a href="mailto:omarabouhmoud@gmail.com">Email Me</a><br>
+• 🚀 I'm always learning new technologies and best practices<br>
+# 🛠️ Tech Stack:
+</td>
+</tr>
+</table>
 
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)        ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
