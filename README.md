@@ -28,7 +28,7 @@ Results-driven Software Engineer & Database Specialist with 2 years of hands-on 
 </table>
 
 ###
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 | Category | Technology / Tool |
 | :--- | :--- |
