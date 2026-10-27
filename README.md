@@ -13,7 +13,7 @@ Results-driven Software Engineer & Database Specialist with 2 years of hands-on 
 <tr>
 <td bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
   <div style="font-weight: bold; color: #c9d1d9; margin-bottom: 12px; font-size: 15px;">
-    🚀 Quick Overview & Contact
+   <h4> 🚀 Quick Overview & Contact </h4>
   </div>
   <hr style="border: 0; border-top: 1px solid #30363d; margin-bottom: 14px;">
 
