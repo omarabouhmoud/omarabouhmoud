@@ -4,13 +4,23 @@
 
 # 💫 About Me:
 Results-driven Software Engineer & Database Specialist with 2 years of hands-on experience specializing in the design, implementation, and optimization of scalable, high-performance applications using Django and Angular. Proven expertise in managing enterprise systems like Oracle ERP and bridging the gap between complex analytical requirements and robust technical solutions. Experienced in working within collaborative teams to ensure data and system availability, performance, and integrity across large-scale platforms. Ready to leverage strong software engineering, database management, and programming skills to design and maintain complex applications and databases containing millions to billions of records.
-```text
-* 📍 I'm based in Saudi Arabia
-* 💻 See my portfolio at [omarabouhmoud](http://github.com/omarabouhmoud)
-* ✉️ Send to my Email Me<a href="mailto:omarabouhmoud@gmail.com" target="_blank">Email Me</a>
-* 🧠 I'm always learning new technologies and best practices
-# 🛠️ Tech Stack:
-```
+<table width="100%">
+<tr>
+<td bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+  <div style="font-weight: bold; color: #c9d1d9; margin-bottom: 12px; font-size: 15px;">
+    🚀 Quick Overview & Contact
+  </div>
+  <hr style="border: 0; border-top: 1px solid #30363d; margin-bottom: 14px;">
+
+- 🗺️ **Location:** Based in Saudi Arabia
+- 💻 **Portfolio:** Explore my work at [omarabouhmoud](http://github.com/omarabouhmoud)
+- ✉️ **Email:** Reach me via [Email Me](mailto:omarabouhmoud@gmail.com)
+- 🚀 **Learning:** Always exploring new technologies & best practices
+
+</td>
+</tr>
+</table>
+
 
 
 
