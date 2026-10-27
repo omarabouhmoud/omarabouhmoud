@@ -3,20 +3,17 @@
 </p>
 
 
-<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px">  I'm Omar Abuhmoud</h1>
+<h1>👋 Hi <img src="https://githubusercontent.com" width="35px"> I'm Omar Abuhmoud</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B62F7&width=775&lines=Software+Engineer+%26+Solutions+Architect+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Database+Specialist+and+Data+Analyst+%F0%9F%93%8A%F0%9F%93%88;Expert+in+Enterprise+Databases+%28Oracle+%7C+Microsoft+SQL+Server%29+%E2%9A%A1;Building+Full-Stack+Web+Apps+with+Django+%26+Angular+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-# 💫 About Me:
-Results-driven Software Engineer & Database Specialist with 2 years of hands-on experience specializing in the design, implementation, and optimization of scalable, high-performance applications using Django and Angular. Proven expertise in managing enterprise systems like Oracle ERP and bridging the gap between complex analytical requirements and robust technical solutions. Experienced in working within collaborative teams to ensure data and system availability, performance, and integrity across large-scale platforms. Ready to leverage strong software engineering, database management, and programming skills to design and maintain complex applications and databases containing millions to billions of records.
-<table width="100%">
-<table width="100%">
-<tr>
-<td bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-  <div style="font-weight: bold; color: #c9d1d9; margin-bottom: 12px; font-size: 15px;">
-    🚀 Quick Overview & Contact
-  </div>
-  <hr style="border: 0; border-top: 1px solid #30363d; margin-bottom: 14px;">
+## 👤 About Me
+
+- 🗄️ **Enterprise Database Specialist:** Expert in designing, implementing, and optimizing complex database architectures using **Oracle, Microsoft SQL Server, PostgreSQL**, and **MongoDB**.
+- ⚙️ **Backend & Systems Integration:** Proficient in bridging the gap between complex analytical database requirements and robust software solutions using **Django (Python)** and **Angular**.
+- 📊 **Data Management & Analytics:** Experienced in managing large-scale data platforms, enhancing data integrity, and building analytics pipelines with tools like **Databricks** and **PowerBI**.
+- 🚀 **Performance Optimization:** Skilled in writing advanced SQL/PL-SQL queries, designing secure database schemas, and fine-tuning systems to handle massive data scales seamlessly.
+
 
 • 🗺️ <strong>Location:</strong> Based in Saudi Arabia<br>
 • 💻 <strong>Portfolio:</strong> Explore my work at <a href="https://github.com/omarabouhmoud" target="_blank" style="color: #58a6ff; text-decoration: none;">omarabouhmoud</a><br>
