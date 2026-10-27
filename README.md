@@ -19,7 +19,7 @@ Results-driven Software Engineer & Database Specialist with 2 years of hands-on 
   <hr style="border: 0; border-top: 1px solid #30363d; margin-bottom: 14px;">
 
 • 🗺️ <strong>Location:</strong> Based in Saudi Arabia<br>
-• 💻 <strong>Portfolio:</strong> Explore my work at <a href="http://github.com" target="_blank" style="color: #58a6ff; text-decoration: none;">omarabouhmoud</a><br>
+• 💻 <strong>Portfolio:</strong> Explore my work at <a href="https://github.com/omarabouhmoud" target="_blank" style="color: #58a6ff; text-decoration: none;">omarabouhmoud</a><br>
 • ✉️ <strong>Email:</strong> Reach me via <a href="mailto:omarabouhmoud@gmail.com" style="color: #58a6ff; text-decoration: none;">Email Me</a><br>
 • 🚀 <strong>Learning:</strong> Always exploring new technologies & best practices
 
