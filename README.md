@@ -1,4 +1,4 @@
-ٍ<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Omar+Abuhmoud&textBg=false&fontColor=fa&fontSize=70&fontAlign=49&fontAlignY=50&rotate=0&strokeWidth=0&desc=Software+Engineer&descSize=20&descAlign=63&descAlignY=62" />
 </p>
 
