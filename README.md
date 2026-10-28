@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B62F7&width=775&lines=Software+Engineer+%26+Solutions+Architect+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Database+Specialist+and+Data+Analyst+%F0%9F%93%8A%F0%9F%93%88;Expert+in+Enterprise+Databases+%28Oracle+%7C+Microsoft+SQL+Server%29+%E2%9A%A1;Building+Full-Stack+Web+Apps+with+Django+%26+Angular+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-## 👤 About Me
+##  👨‍💻 About Me
 
 - 🗄️ **Enterprise Database Specialist:** Expert in designing, implementing, and optimizing complex database architectures using **Oracle, Microsoft SQL Server, PostgreSQL**, and **MongoDB**.
 - ⚙️ **Backend & Systems Integration:** Proficient in bridging the gap between complex analytical database requirements and robust software solutions using **Django (Python)** and **Angular**.
