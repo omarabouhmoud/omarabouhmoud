@@ -14,7 +14,6 @@
 - 📊 **Data Management & Analytics:** Experienced in managing large-scale data platforms, enhancing data integrity, and building analytics pipelines with tools like **Databricks** and **PowerBI**.
 - 🚀 **Performance Optimization:** Skilled in writing advanced SQL/PL-SQL queries, designing secure database schemas, and fine-tuning systems to handle massive data scales seamlessly.
 
-###
 
 • 🗺️ <strong>Location:</strong> Based in Saudi Arabia<br>
 • 💻 <strong>Portfolio:</strong> Explore my work at <a href="https://github.com/omarabouhmoud" target="_blank" style="color: #58a6ff; text-decoration: none;">omarabouhmoud</a><br>
