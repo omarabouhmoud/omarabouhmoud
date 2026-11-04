@@ -39,7 +39,7 @@
 
 | Project | Development Stack & Links |
 | :--- | :--- |
-| **🏢 Human Resources Management System Database**<br>`HR_DATABASE_DB` | 🔹 **Database Engine:** Microsoft SQL Server (SSMS)<br>🔹 **Programming Language:** T-SQL<br>🔗 **Project Link:** [View Repository](https://github.com) |
+| **🏢 Human Resources Management System Database**<br>`HR_DATABASE_DB` | 🔹 **Database Engine:** Microsoft SQL Server (SSMS)<br>🔹 **Programming Language:** T-SQL<br>🔗 **Project Link:** [View Repository]((https://github.com/omarabouhmoud/HR_DATABASE_DB)) |
 
 
 # 📊 GitHub Stats:
