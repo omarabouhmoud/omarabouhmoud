@@ -34,57 +34,7 @@
 | **💻 Frontend Development** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) |
 | **📊 Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /> |
 
-## 📂 Featured Project
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td style="padding: 24px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px;">
-        <div align="left">
-          <!-- Project Title & Badges -->
-          <h3 align="left">🏢 Human Resources Management System Database (HR_DATABASE_DB)</h3>
-          <p align="left">
-            <img src="https://shields.io" alt="SQL Server">
-            <img src="https://shields.io" alt="TSQL">
-          </p>
-          <!-- Project Description -->
-          <p align="left" style="font-size: 15px; color: #8b949e; line-height: 1.6;">
-            A comprehensive enterprise-grade HR database system engineered for high efficiency, scalability, and strict data governance. This standalone project focuses on optimizing human capital workflows and implementing advanced data engineering principles.
-          </p>
-          <!-- Core Features Grid -->
-          <h4 align="left" style="color: #58a6ff; margin-top: 15px;">⚙️ Core Technical Implementations:</h4>
-          <table width="100%" style="border: none; background: transparent;">
-            <tr style="background: transparent; border: none;">
-              <td width="50%" valign="top" style="border: none; padding: 5px;">
-                🔹 <b>Advanced Architecture:</b> Organized into 4 distinct schemas with 11 highly normalized tables to ensure zero redundancy and maximum performance.
-              </td>
-              <td width="50%" valign="top" style="border: none; padding: 5px;">
-                🔹 <b>Automated Auditing:</b> Implemented financial database triggers to automatically generate robust audit trails and track sensitive modifications.
-              </td>
-            </tr>
-            <tr style="background: transparent; border: none;">
-              <td width="50%" valign="top" style="border: none; padding: 5px;">
-                🔹 <b>Security & Governance:</b> Provisioned dedicated DBA administrative accounts and set up robust encryption layers for critical assets.
-              </td>
-              <td width="50%" valign="top" style="border: none; padding: 5px;">
-                🔹 <b>Disaster Recovery:</b> Tailored custom end-to-end backup strategies to ensure seamless data durability and business continuity.
-              </td>
-            </tr>
-          </table>
-          <br/>
-          <!-- Action Link -->
-          <p align="left">
-            <a href="https://github.com" style="display: inline-block; padding: 8px 16px; background-color: #238636; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">🔗 Explore Repository & Source Code</a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-###
 # 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=omarabouhmoud&theme=transparent&hide_border=true)<br/>
