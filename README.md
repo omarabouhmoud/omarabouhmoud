@@ -34,6 +34,11 @@
 | **💻 Frontend Development** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) |
 | **📊 Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /> |
 
+## 📂 Projects
+
+| Project | Development Stack & Links |
+| :--- | :--- |
+| **🏢 Human Resources Management System Database**<br>`HR_DATABASE_DB` | 🔹 **Database Engine:** Microsoft SQL Server (SSMS)<br>🔹 **Programming Language:** T-SQL<br>🔗 **Project Link:** [View Repository](https://github.com/omarabouhmoud/HR_DATABASE_DB) |
 
 # 📊 GitHub Stats:
 
