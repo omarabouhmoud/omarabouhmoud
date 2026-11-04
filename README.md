@@ -35,10 +35,12 @@
 | **📊 Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /> |
 
 ## 📂 Projects
+<br/>
 
 | Project | Development Stack & Links |
 | :--- | :--- |
-| **🏢 Human Resources Management System Database**<br>`HR_DATABASE_DB` | 🔹 **Database Engine:** Microsoft SQL Server (SSMS)<br>🔹 **Programming Language:** T-SQL<br>🔗 **Project Link:** [View Repository](https://github.com/omarabouhmoud/HR_DATABASE_DB) |
+| **🏢 Human Resources Management System Database**<br>`HR_DATABASE_DB` | 🔹 **Database Engine:** Microsoft SQL Server (SSMS)<br>🔹 **Programming Language:** T-SQL<br>🔗 **Project Link:** [View Repository](https://github.com) |
+
 
 # 📊 GitHub Stats:
 
