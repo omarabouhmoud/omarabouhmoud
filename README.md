@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Omar+Abuhmoud&textBg=false&fontColor=fa&fontSize=70&fontAlign=49&fontAlignY=50&rotate=0&strokeWidth=0&desc=Software+Engineer&descSize=20&descAlign=63&descAlignY=62" />
 </p>
 
-
 <h1>👋 Hi I'm Omar Abuhmoud</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B62F7&width=775&lines=Software+Engineer+%26+Solutions+Architect+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Database+Specialist+and+Data+Analyst+%F0%9F%93%8A%F0%9F%93%88;Expert+in+Enterprise+Databases+%28Oracle+%7C+Microsoft+SQL+Server%29+%E2%9A%A1;Building+Full-Stack+Web+Apps+with+Django+%26+Angular+%F0%9F%9A%80" alt="Typing SVG" /></a>
